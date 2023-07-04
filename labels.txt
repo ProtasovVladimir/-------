@@ -1,2 +1,2 @@
-0 Panel
-1 other
+0 yes_o
+1 no_o
